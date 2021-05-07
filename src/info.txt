@@ -1,0 +1,5 @@
+-----------------
+Datos registrados
+-----------------
+Nombre y Apellido.........: erick cahuas
+Género....................: Maculino
